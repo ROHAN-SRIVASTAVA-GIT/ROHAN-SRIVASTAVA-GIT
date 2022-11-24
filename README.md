@@ -1,33 +1,31 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://markeringflakes.my.canva.site/my-portfolio)
+
 <h1 align="center">Hi 👋, I'm ROHAN SRIVASTAVA</h1>
+<h3 align="center">CSE '24 at XIM University, Bhubaneswar</h3>
 <h3 align="center">Currently pursuing a UG course in BTech- CSE, I am seeking a challenging position in a reputable organization to expand and utilize my learning, skills, and knowledge. Possess excellent communication skills and has an eye for detail. Flexible to work in any environment as required.</h3>
-<img align="right" alt="Coding" width="400" src="http://www.web24zone.com/wp-content/uploads/2022/10/46207-programmer-1.gif">
+<img align="right" alt="Coding" height= "200" width="300" src="http://www.web24zone.com/wp-content/uploads/2022/10/46207-programmer-1.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rohan-srivastava-git&label=Profile%20views&color=0e75b6&style=flat" alt="rohan-srivastava-git" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rohan-srivastava-git" alt="rohan-srivastava-git" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/@ias_politician" target="blank"><img src="https://img.shields.io/twitter/follow/@ias_politician?logo=twitter&style=for-the-badge" alt="@ias_politician" /></a> </p>
 
 - 🔭 I’m currently working on **Internship/Placement Project**
 
 - 🌱 I’m currently learning **Full Stack Developement / Android App Developement / SQL**
 
-- 👨‍💻 All of my projects are available at [https://markeringflakes.my.canva.site/my-portfolio](https://markeringflakes.my.canva.site/my-portfolio)
+- 👨‍💻 All of my projects are available at [GITHUB](https://github.com/ROHAN-SRIVASTAVA-GIT)
 
 - 💬 Ask me about **Frontend / Backend / App Developemt**
 
 - 📫 How to reach me **rohansrivastava3125@gmail.com**
 
-- 📄 Know about my experiences [https://markeringflakes.my.canva.site/my-portfolio](https://markeringflakes.my.canva.site/my-portfolio)
+- 📄 Know about my experiences [My-Portfolio](https://markeringflakes.my.canva.site/my-portfolio)
 
-- ⚡ Fun fact **I am Politician**
+- ⚡ Fun fact **I am Politician and UPSC Aspirant**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/ias_politician" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@ias_politician" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/rohan srivastava" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rohan srivastava" height="30" width="40" /></a>
-<a href="https://fb.com/rohan srivastava" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="rohan srivastava" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/rohan3125/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rohan srivastava" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
