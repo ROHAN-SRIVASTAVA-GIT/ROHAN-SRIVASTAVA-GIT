@@ -18,7 +18,7 @@
 
 - 📫 How to reach me **rohansrivastava3125@gmail.com**
 
-- 📄 Know about my experiences [My-Portfolio](https://markeringflakes.my.canva.site/my-portfolio)
+- 📄 Know about my experiences [My-Portfolio](https://rohan-srivastava-git.github.io/My-Portfolio/)
 
 - ⚡ Fun fact **I am Politician and UPSC Aspirant**
 
