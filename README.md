@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm ROHAN SRIVASTAVA</h1>
 <h3 align="center">CSE '24 at XIM University, Bhubaneswar</h3>
-<h3 align="center">Currently pursuing a UG course in BTech- CSE (Pre-Final Year), I am seeking a challenging position in a reputable organization to expand and utilize my learning, skills, and knowledge. Possess excellent communication skills and has an eye for detail. Flexible to work in any environment as required.</h3>
+<h3 align="center">Currently pursuing a UG course in BTech- CSE (Final Year), I am seeking a challenging position in a reputable organization to expand and utilize my learning, skills, and knowledge. Possess excellent communication skills and has an eye for detail. Flexible to work in any environment as required.</h3>
 <img align="right" alt="Coding" height= "200" width="300" src="http://www.web24zone.com/wp-content/uploads/2022/10/46207-programmer-1.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rohan-srivastava-git&label=Profile%20views&color=0e75b6&style=flat" alt="rohan-srivastava-git" /> </p>
