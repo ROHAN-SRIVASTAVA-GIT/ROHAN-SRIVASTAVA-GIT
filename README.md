@@ -1,18 +1,17 @@
-<div align="center">
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Rohan%20Srivastava&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Software%20Engineer%20%7C%20Full-Stack%20%26%20Backend%20Developer&descAlignY=58&descSize=18" />
+</p>
 
-### 👋 Hi, I'm
-# 🚀 ROHAN SRIVASTAVA
-### Software Engineer | Full-Stack & Backend Developer
-### 🏢 Centroxy Solutions → Deputed to Deloitte as SDA
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&width=700&lines=Software+Engineer+%40+Deloitte+(via+Centroxy);Java+%7C+Spring+Boot+%7C+React+%7C+AWS+Specialist;Oracle+Certified+Java+SE+17+Developer;Building+Systems+That+Scale+%F0%9F%9A%80;2%2B+Years+%7C+4%2B+Enterprise+Projects+%7C+3+Countries" />
+  </a>
+</p>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1000&color=00D4FF&center=true&vCenter=true&width=700&lines=Software+Engineer+%40+Deloitte+(via+Centroxy);Java+%7C+Spring+Boot+%7C+React+%7C+AWS+Specialist;Oracle+Certified+Java+SE+17+Developer;Building+Systems+That+Scale;2%2B+Years+%7C+4%2B+Enterprise+Projects+%7C+3+Countries)](https://git.io/typing-svg)
-
-<br/>
-
-![Views](https://komarev.com/ghpvc/?username=rohan-srivastava-git&label=Profile+Views&color=0D1B2E&style=for-the-badge&labelColor=1B4F8A)
-![Followers](https://img.shields.io/github/followers/rohan-srivastava-git?label=Followers&style=for-the-badge&color=0D1B2E&labelColor=1B4F8A)
-
-</div>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=rohan-srivastava-git&label=Profile+Views&color=0D1B2E&style=for-the-badge&labelColor=1B4F8A" />
+  <img src="https://img.shields.io/github/followers/rohan-srivastava-git?label=Followers&style=for-the-badge&color=0D1B2E&labelColor=1B4F8A" />
+</p>
 
 ---
 
@@ -53,14 +52,14 @@ public class RohanSrivastava extends SoftwareEngineer {
 
 ## 📊 GitHub Statistics
 
-<div align="center">
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=rohan-srivastava-git&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1B2E&title_color=00D4FF&icon_color=7B2FFF&text_color=F0F4FF&border_radius=12" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=rohan-srivastava-git&theme=tokyonight&hide_border=true&background=0D1B2E&stroke=1B4F8A&ring=00D4FF&fire=7B2FFF&currStreakLabel=00D4FF&border_radius=12" />
+</p>
 
-![Stats](https://github-readme-stats.vercel.app/api?username=rohan-srivastava-git&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1B2E&title_color=00D4FF&icon_color=7B2FFF&text_color=F0F4FF&border_radius=12)
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=rohan-srivastava-git&theme=tokyonight&hide_border=true&background=0D1B2E&stroke=1B4F8A&ring=00D4FF&fire=7B2FFF&currStreakLabel=00D4FF&border_radius=12)
-
-![Langs](https://github-readme-stats.vercel.app/api/top-langs?username=rohan-srivastava-git&theme=tokyonight&hide_border=true&bg_color=0D1B2E&title_color=00D4FF&text_color=F0F4FF&layout=compact&border_radius=12&langs_count=8)
-
-</div>
+<p align="center">
+  <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs?username=rohan-srivastava-git&theme=tokyonight&hide_border=true&bg_color=0D1B2E&title_color=00D4FF&text_color=F0F4FF&layout=compact&border_radius=12&langs_count=8" />
+</p>
 
 ---
 
@@ -131,69 +130,69 @@ Contributing to **4+ enterprise projects** across telecom and energy sectors wit
 
 ## 🛠️ Tech Stack
 
-<div align="center">
+<p align="center">
 
 **Languages**
 
-![Java](https://img.shields.io/badge/Java_SE_17-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+<img src="https://img.shields.io/badge/Java_SE_17-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
 
 **Frontend**
 
-![React](https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+<img src="https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+<img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
+<img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" />
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
 
 **Backend**
 
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![REST APIs](https://img.shields.io/badge/REST_APIs-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+<img src="https://img.shields.io/badge/REST_APIs-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
 
 **Databases**
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle_DB-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/Oracle_DB-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
 
 **Cloud and DevOps**
 
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![OpenShift](https://img.shields.io/badge/OpenShift-EE0000?style=for-the-badge&logo=redhatopenshift&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
+<img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
+<img src="https://img.shields.io/badge/OpenShift-EE0000?style=for-the-badge&logo=redhatopenshift&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
+<img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white" />
 
 **Monitoring and Testing**
 
-![Sentry](https://img.shields.io/badge/Sentry-362D59?style=for-the-badge&logo=sentry&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
-![JUnit](https://img.shields.io/badge/JUnit5-25A162?style=for-the-badge&logo=junit5&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
+<img src="https://img.shields.io/badge/Sentry-362D59?style=for-the-badge&logo=sentry&logoColor=white" />
+<img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" />
+<img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" />
+<img src="https://img.shields.io/badge/JUnit5-25A162?style=for-the-badge&logo=junit5&logoColor=white" />
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+<img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black" />
 
 **Tools and IDEs**
 
-![IntelliJ](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
-![Confluence](https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=confluence&logoColor=white)
+<img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white" />
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" />
+<img src="https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=confluence&logoColor=white" />
 
-</div>
+</p>
 
 ---
 
@@ -225,26 +224,24 @@ Contributing to **4+ enterprise projects** across telecom and energy sectors wit
 
 ## 📈 Contribution Activity
 
-<div align="center">
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=rohan-srivastava-git&bg_color=0D1B2E&color=00D4FF&line=1B4F8A&point=7B2FFF&area=true&hide_border=true&radius=8)](https://github.com/rohan-srivastava-git)
-
-</div>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rohan-srivastava-git&bg_color=0D1B2E&color=00D4FF&line=1B4F8A&point=7B2FFF&area=true&hide_border=true&radius=8" />
+</p>
 
 ---
 
 ## 🤝 Connect With Me
 
-<div align="center">
+<p align="center">
+  <a href="https://www.linkedin.com/in/rohan3125/"><img src="https://img.shields.io/badge/LinkedIn-Rohan_Srivastava-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:srivastavarohan3125@gmail.com"><img src="https://img.shields.io/badge/Email-srivastavarohan3125@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://rohan-srivastava-git.github.io/My-Portfolio/"><img src="https://img.shields.io/badge/Portfolio-Visit_Site-00D4FF?style=for-the-badge&logo=safari&logoColor=white" /></a>
+  <a href="https://github.com/ROHAN-SRIVASTAVA-GIT"><img src="https://img.shields.io/badge/GitHub-ROHAN--SRIVASTAVA--GIT-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://twitter.com/ias_politician"><img src="https://img.shields.io/badge/Twitter-%40ias__politician-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+</p>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Rohan_Srivastava-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rohan3125/)
-[![Email](https://img.shields.io/badge/Email-srivastavarohan3125@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:srivastavarohan3125@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_Site-00D4FF?style=for-the-badge&logo=safari&logoColor=white)](https://rohan-srivastava-git.github.io/My-Portfolio/)
-[![GitHub](https://img.shields.io/badge/GitHub-ROHAN--SRIVASTAVA--GIT-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ROHAN-SRIVASTAVA-GIT)
-[![Twitter](https://img.shields.io/badge/Twitter-%40ias__politician-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/ias_politician)
+<p align="center"><i>"Building systems that scale. Writing code that matters."</i></p>
 
-<br/>
-
-*"Building systems that scale. Writing code that matters."*
-
-</div>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" />
+</p>
