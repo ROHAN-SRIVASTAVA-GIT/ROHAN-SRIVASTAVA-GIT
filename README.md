@@ -16,8 +16,7 @@
 </p>
 
 <p>
-  <img src="https://komarev.com/ghpvc/?username=rohan-srivastava-git&label=Profile+Views&color=0D1B2E&style=flat-square&labelColor=1B4F8A" alt="Profile Views"/>
-  <img src="https://img.shields.io/github/followers/rohan-srivastava-git?label=Followers&style=flat-square&color=0D1B2E&labelColor=1B4F8A" alt="Followers"/>
+<img src="https://komarev.com/ghpvc/?username=rohan-srivastava-git&label=Profile+Views&color=0D1B2E&style=flat-square&labelColor=1B4F8A&v=1" alt="Profile Views"/>  <img src="https://img.shields.io/github/followers/rohan-srivastava-git?label=Followers&style=flat-square&color=0D1B2E&labelColor=1B4F8A" alt="Followers"/>
 </p>
 
 </div>
