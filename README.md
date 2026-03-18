@@ -13,7 +13,7 @@
 <!-- Profile Views + Followers + Stars -->
 <p>
   <img src="https://komarev.com/ghpvc/?username=rohan-srivastava-git&label=Profile+Views&color=0D1B2E&style=for-the-badge&labelColor=1B4F8A" alt="Profile Views"/>
-  &nbsp;
+  &amp;nbsp;
   <img src="https://img.shields.io/github/followers/rohan-srivastava-git?label=Followers&style=for-the-badge&color=0D1B2E&labelColor=1B4F8A" alt="Followers"/>
 </p>
 
@@ -50,7 +50,7 @@ public class RohanSrivastava extends SoftwareEngineer {
         "🥉 3rd Place — GEEK-O-THON 2023 (IIIT Bhubaneswar, 100+ teams)",
         "📈 25–45% performance gains across 6+ enterprise projects",
         "🌍 Collaborated with Deloitte teams across 3 countries",
-        "⚡ Self-taught Spring Boot, AWS & Angular in 6 months on the job"
+        "⚡ Self-taught Spring Boot, AWS &amp; Angular in 6 months on the job"
     };
 
     String funFact = "I turn complex business problems into scalable systems 🚀";
@@ -123,7 +123,7 @@ public class RohanSrivastava extends SoftwareEngineer {
 ---
 
 <!-- Tech Stack -->
-## 🛠️ Tech Stack & Tools
+## 🛠️ Tech Stack &amp; Tools
 
 <div align="center">
 
@@ -143,7 +143,7 @@ public class RohanSrivastava extends SoftwareEngineer {
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-### ⚙️ Backend & APIs
+### ⚙️ Backend &amp; APIs
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
@@ -157,7 +157,7 @@ public class RohanSrivastava extends SoftwareEngineer {
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
-### ☁️ Cloud & DevOps
+### ☁️ Cloud &amp; DevOps
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![OpenShift](https://img.shields.io/badge/OpenShift-EE0000?style=for-the-badge&logo=redhatopenshift&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
@@ -165,7 +165,7 @@ public class RohanSrivastava extends SoftwareEngineer {
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
 
-### 📊 Monitoring & Testing
+### 📊 Monitoring &amp; Testing
 ![Sentry](https://img.shields.io/badge/Sentry-362D59?style=for-the-badge&logo=sentry&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
@@ -173,7 +173,7 @@ public class RohanSrivastava extends SoftwareEngineer {
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
 
-### 🔧 Tools & IDEs
+### 🔧 Tools &amp; IDEs
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -275,7 +275,7 @@ public class RohanSrivastava extends SoftwareEngineer {
 | 🔴 **Oracle Java Foundations** | Oracle Authorized (ULSA) | Mar 2026 | `OGDV48H4DJFT` |
 | ☁️ **AWS Cloud Practitioner Essentials** | Amazon Web Services | — | — |
 | ☁️ **AWS Technical Essentials** | Amazon Web Services | — | — |
-| 🔵 **Databases & SQL for Data Science** | IBM | — | — |
+| 🔵 **Databases &amp; SQL for Data Science** | IBM | — | — |
 | 📚 **Object-Oriented Programming in Java** | Coursera | — | — |
 | 💻 **Responsive Web Design** | freeCodeCamp | — | — |
 
@@ -294,7 +294,7 @@ public class RohanSrivastava extends SoftwareEngineer {
 | 🎯 | **Oracle Certified Java SE 17 Developer** | 1Z0-829 · Globally recognized credential |
 | 📈 | **25–45% Performance Gains** | Delivered across 6+ enterprise projects |
 | 🌍 | **Global Collaboration** | Deloitte teams across 3 countries |
-| ⚡ | **6-Month Mastery** | Self-taught Spring Boot, AWS & Angular on the job |
+| ⚡ | **6-Month Mastery** | Self-taught Spring Boot, AWS &amp; Angular on the job |
 
 </div>
 
