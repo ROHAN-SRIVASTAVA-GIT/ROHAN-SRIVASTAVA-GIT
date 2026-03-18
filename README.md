@@ -13,7 +13,7 @@
 <!-- Profile Views + Followers + Stars -->
 <p>
   <img src="https://komarev.com/ghpvc/?username=rohan-srivastava-git&label=Profile+Views&color=0D1B2E&style=for-the-badge&labelColor=1B4F8A" alt="Profile Views"/>
-  &amp;nbsp;
+  &amp;
   <img src="https://img.shields.io/github/followers/rohan-srivastava-git?label=Followers&style=for-the-badge&color=0D1B2E&labelColor=1B4F8A" alt="Followers"/>
 </p>
 
