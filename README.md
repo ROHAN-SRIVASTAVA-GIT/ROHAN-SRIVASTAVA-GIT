@@ -1,19 +1,23 @@
 <div align="center">
 
-<!-- Animated Header Banner -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Rohan%20Srivastava&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Software%20Engineer%20%7C%20Full-Stack%20and%20Backend%20Developer&descAlignY=58&descSize=18"/>
-<img src="https://img.shields.io/github/followers/rohan-srivastava-git?label=Followers&style=flat-square&color=0D1B2E&labelColor=1B4F8A" alt="Followers"/>
-<!-- Typing Animation -->
+
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&width=700&lines=Software+Engineer+%40+Deloitte+(via+Centroxy);Java+%7C+Spring+Boot+%7C+React+%7C+AWS+Specialist;Oracle+Certified+Java+SE+17+Developer;Building+Systems+That+Scale+%F0%9F%9A%80;2%2B+Years+%7C+4%2B+Enterprise+Projects+%7C+3+Countries" alt="Typing SVG" />
 </a>
 
 <br/>
 
-<!-- Profile Views + Followers + Stars -->
 <p>
-  <img src="https://komarev.com/ghpvc/?username=rohan-srivastava-git&label=Profile+Views&color=0D1B2E&style=for-the-badge&labelColor=1B4F8A" alt="Profile Views"/>
-  <img src="https://img.shields.io/github/followers/rohan-srivastava-git?label=Followers&style=for-the-badge&color=0D1B2E&labelColor=1B4F8A" alt="Followers"/>
+  <a href="https://www.linkedin.com/in/rohan3125/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:srivastavarohan3125@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://rohan-srivastava-git.github.io/My-Portfolio/"><img src="https://img.shields.io/badge/Portfolio-00D4FF?style=flat-square&logo=safari&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://github.com/ROHAN-SRIVASTAVA-GIT"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
+</p>
+
+<p>
+  <img src="https://komarev.com/ghpvc/?username=rohan-srivastava-git&label=Profile+Views&color=0D1B2E&style=flat-square&labelColor=1B4F8A" alt="Profile Views"/>
+  <img src="https://img.shields.io/github/followers/rohan-srivastava-git?label=Followers&style=flat-square&color=0D1B2E&labelColor=1B4F8A" alt="Followers"/>
 </p>
 
 </div>
