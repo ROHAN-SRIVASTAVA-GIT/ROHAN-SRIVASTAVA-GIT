@@ -1,37 +1,30 @@
 <div align="center">
 
-<!-- Animated Header Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Rohan%20Srivastava&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Software%20Engineer%20%7C%20Full-Stack%20%26%20Backend%20Developer&descAlignY=58&descSize=18"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Rohan%20Srivastava&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Software%20Engineer%20%7C%20Full-Stack%20%26%20Backend%20Developer&descAlignY=58&descSize=18" />
 
-<!-- Typing Animation -->
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&width=700&lines=Software+Engineer+%40+Deloitte+(via+Centroxy);Java+%7C+Spring+Boot+%7C+React+%7C+AWS+Specialist;Oracle+Certified+Java+SE+17+Developer;Building+Systems+That+Scale+%F0%9F%9A%80;2%2B+Years+%7C+4%2B+Enterprise+Projects+%7C+3+Countries" alt="Typing SVG" />
 </a>
 
-<br/>
+<br/><br/>
 
-<!-- Profile Views + Followers + Stars -->
-<p>
-  <img src="https://komarev.com/ghpvc/?username=rohan-srivastava-git&label=Profile+Views&color=0D1B2E&style=for-the-badge&labelColor=1B4F8A" alt="Profile Views"/>
-  &amp;nbsp;
-  <img src="https://img.shields.io/github/followers/rohan-srivastava-git?label=Followers&style=for-the-badge&color=0D1B2E&labelColor=1B4F8A" alt="Followers"/>
-</p>
+<img src="https://komarev.com/ghpvc/?username=rohan-srivastava-git&label=Profile+Views&color=0D1B2E&style=for-the-badge&labelColor=1B4F8A" alt="Profile Views" />
+<img src="https://img.shields.io/github/followers/rohan-srivastava-git?label=Followers&style=for-the-badge&color=0D1B2E&labelColor=1B4F8A" alt="Followers" />
 
 </div>
 
 ---
 
-<!-- About Me -->
-## 👨‍💻 About Me
+## About Me
 
 ```java
 public class RohanSrivastava extends SoftwareEngineer {
 
     String  name       = "Rohan Srivastava";
-    String  role       = "Software Engineer → Deputed to Deloitte as SDA";
+    String  role       = "Software Engineer | Deputed to Deloitte as SDA";
     String  company    = "Centroxy Solutions Pvt Ltd";
-    String  location   = "Bhubaneswar, Odisha, India 📍";
-    String  education  = "B.Tech CSE — XIM University (2024)";
+    String  location   = "Bhubaneswar, Odisha, India";
+    String  education  = "B.Tech CSE - XIM University (2024)";
     String  email      = "srivastavarohan3125@gmail.com";
 
     String[] currentStack = {
@@ -40,81 +33,79 @@ public class RohanSrivastava extends SoftwareEngineer {
     };
 
     String[] certifications = {
-        "Oracle Java SE 17 Developer (1Z0-829) — Pearson",
-        "Oracle Java Foundations — ULSA",
+        "Oracle Java SE 17 Developer (1Z0-829) - Pearson - Mar 2026",
+        "Oracle Java Foundations - ULSA - Mar 2026",
         "AWS Cloud Practitioner Essentials",
         "AWS Technical Essentials"
     };
 
     String[] achievements = {
-        "🥉 3rd Place — GEEK-O-THON 2023 (IIIT Bhubaneswar, 100+ teams)",
-        "📈 25–45% performance gains across 6+ enterprise projects",
-        "🌍 Collaborated with Deloitte teams across 3 countries",
-        "⚡ Self-taught Spring Boot, AWS &amp; Angular in 6 months on the job"
+        "3rd Place - GEEK-O-THON 2023 (IIIT Bhubaneswar, 100+ teams)",
+        "25-45% performance gains across 6+ enterprise projects",
+        "Collaborated with Deloitte teams across 3 countries",
+        "Self-taught Spring Boot, AWS and Angular in 6 months on the job"
     };
 
-    String funFact = "I turn complex business problems into scalable systems 🚀";
+    String funFact = "I turn complex business problems into scalable systems";
 }
 ```
 
 ---
 
-<!-- Stats Banner -->
-## 📊 GitHub Statistics
+## GitHub Statistics
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=rohan-srivastava-git&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1B2E&title_color=00D4FF&icon_color=7B2FFF&text_color=F0F4FF&border_radius=12" alt="GitHub Stats"/>
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=rohan-srivastava-git&theme=tokyonight&hide_border=true&background=0D1B2E&stroke=1B4F8A&ring=00D4FF&fire=7B2FFF&currStreakLabel=00D4FF&border_radius=12" alt="Streak Stats"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=rohan-srivastava-git&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1B2E&title_color=00D4FF&icon_color=7B2FFF&text_color=F0F4FF&border_radius=12" alt="GitHub Stats" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=rohan-srivastava-git&theme=tokyonight&hide_border=true&background=0D1B2E&stroke=1B4F8A&ring=00D4FF&fire=7B2FFF&currStreakLabel=00D4FF&border_radius=12" alt="Streak Stats" />
 
 <br/><br/>
 
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=rohan-srivastava-git&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1B2E&title_color=00D4FF&text_color=F0F4FF&layout=compact&border_radius=12&langs_count=8" alt="Top Languages"/>
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=rohan-srivastava-git&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1B2E&title_color=00D4FF&text_color=F0F4FF&layout=compact&border_radius=12&langs_count=8" alt="Top Languages" />
 
 </div>
 
 ---
 
-<!-- Work Experience -->
-## 💼 Professional Experience
+## Professional Experience
 
 <table>
 <tr>
 <td width="50%">
 
-### 🏢 Centroxy Solutions → Deloitte
+### Centroxy Solutions to Deloitte
 **Software Engineer (SDA)** · Jun 2024 – Present
 
-> Contributing to **4+ enterprise projects** across telecom and energy sectors, collaborating with global teams across **3 countries** in Agile sprints.
+Contributing to **4+ enterprise projects** across telecom and energy sectors, collaborating with global teams across **3 countries** in Agile sprints.
 
 **Key Metrics:**
-- ⚡ Feature cycle time **↓ 30%**
-- 🔥 REST APIs serving **10K+ daily transactions**
-- 🚀 Page load speed **↑ 25%** (React + Redux)
-- 🗄️ PostgreSQL queries **↓ 40%** (index tuning)
-- ✅ **90%+ backend test coverage**
+- Feature cycle time **30% faster**
+- REST APIs serving **10K+ daily transactions**
+- Page load speed **25% faster** via React + Redux
+- PostgreSQL queries **40% faster** via index tuning
+- **90%+ backend test coverage**
 
 </td>
 <td width="50%">
 
-### 📡 Project: Airtel-Vodafone UK Portal
+### Project: Airtel-Vodafone UK Portal
 **Backend Developer**
 
 `Java 11` `Spring Boot` `Oracle` `Aerospike` `OpenShift` `Jenkins`
 
-- 🌐 Microservices handling **500K+ active sessions**
-- ⚡ API latency **↓ 35%** via Aerospike caching
-- 🔄 Zero-downtime releases across **4 environments**
-- 🐛 Debug time: **4hrs → 45min** (Log4J standards)
+- Microservices handling **500K+ active sessions**
+- API latency **35% lower** via Aerospike caching
+- Zero-downtime releases across **4 environments**
+- Debug time cut from **4hrs to 45min** via Log4J
 
-### ⚡ Project: SMRD Tata Power Billing
+### Project: SMRD Tata Power Billing
 **Full-Stack Developer**
 
 `Spring Boot` `Angular` `PostgreSQL` `AWS` `Sentry` `CI/CD`
 
-- 🔌 Automated billing for **10,000+ smart meters**
-- 📊 Report generation **↓ 45%** (schema optimization)
-- ✅ **99.5% production uptime** on AWS
+- Automated billing for **10,000+ smart meters**
+- Report generation **45% faster** via schema optimization
+- **99.5% production uptime** on AWS
 
 </td>
 </tr>
@@ -122,12 +113,11 @@ public class RohanSrivastava extends SoftwareEngineer {
 
 ---
 
-<!-- Tech Stack -->
-## 🛠️ Tech Stack &amp; Tools
+## Tech Stack
 
 <div align="center">
 
-### ☕ Languages
+### Languages
 ![Java](https://img.shields.io/badge/Java_SE_17-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
@@ -135,7 +125,7 @@ public class RohanSrivastava extends SoftwareEngineer {
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
-### 🎨 Frontend
+### Frontend
 ![React](https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
@@ -143,21 +133,21 @@ public class RohanSrivastava extends SoftwareEngineer {
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-### ⚙️ Backend &amp; APIs
+### Backend
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_APIs-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-### 🗄️ Databases
+### Databases
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle_DB-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
-### ☁️ Cloud &amp; DevOps
+### Cloud and DevOps
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![OpenShift](https://img.shields.io/badge/OpenShift-EE0000?style=for-the-badge&logo=redhatopenshift&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
@@ -165,7 +155,7 @@ public class RohanSrivastava extends SoftwareEngineer {
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
 
-### 📊 Monitoring &amp; Testing
+### Monitoring and Testing
 ![Sentry](https://img.shields.io/badge/Sentry-362D59?style=for-the-badge&logo=sentry&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
@@ -173,7 +163,7 @@ public class RohanSrivastava extends SoftwareEngineer {
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
 
-### 🔧 Tools &amp; IDEs
+### Tools and IDEs
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -184,68 +174,62 @@ public class RohanSrivastava extends SoftwareEngineer {
 
 ---
 
-<!-- Featured Projects -->
-## 🚀 Featured Projects
+## Featured Projects
 
 <div align="center">
 
 <table>
 <tr>
-
 <td width="50%" valign="top">
 
-### ⚡ SMRD Tata Power Billing System
-> Enterprise billing platform for Smart Meter Revenue Distribution
+### SMRD Tata Power Billing System
+Enterprise billing platform for Smart Meter Revenue Distribution
 
 **Stack:** `Java` `Spring Boot` `Angular` `PostgreSQL` `AWS` `Sentry` `CI/CD`
 
 | Metric | Result |
 |--------|--------|
 | Smart Meters | 10,000+ automated |
-| Report Speed | ↓ 45% faster |
+| Report Speed | 45% faster |
 | Uptime | 99.5% on AWS |
-| Data Errors | ↓ 70% via dashboards |
+| Data Errors | 70% reduction |
 
 </td>
-
 <td width="50%" valign="top">
 
-### 📡 Airtel-Vodafone UK Telecom Portal
-> Self-care portal for UK telecom subscribers
+### Airtel-Vodafone UK Telecom Portal
+Self-care portal for UK telecom subscribers
 
 **Stack:** `Java 11` `Spring Boot` `Microservices` `Oracle` `Aerospike` `OpenShift`
 
 | Metric | Result |
 |--------|--------|
 | Active Sessions | 500K+ in production |
-| API Latency | ↓ 35% (Aerospike) |
+| API Latency | 35% reduction |
 | DB Read Offload | 60% fewer hits |
 | Release Downtime | Zero across 4 envs |
 
 </td>
-
 </tr>
 <tr>
-
 <td width="50%" valign="top">
 
-### 🚁 Nirapad Udaan — IoT Drone System
-> Road safety surveillance with autonomous GIS alerts
+### Nirapad Udaan — IoT Drone System
+Road safety surveillance with autonomous GIS alerts
 
 **Stack:** `IoT` `GIS Mapping` `Embedded Systems` `Autonomous Triggers`
 
 | Metric | Result |
 |--------|--------|
 | Road Corridors | 12 monitored |
-| Patrol Reduction | ↓ 60% |
+| Patrol Reduction | 60% less |
 | Detection | Real-time incidents |
 
 </td>
-
 <td width="50%" valign="top">
 
-### 🤖 AI Facial Recommendation Engine
-> ML-powered product recommendations via facial detection
+### AI Facial Recommendation Engine
+ML-powered product recommendations via facial detection
 
 **Stack:** `Python` `Machine Learning` `Computer Vision` `Flask` `OpenCV`
 
@@ -253,10 +237,9 @@ public class RohanSrivastava extends SoftwareEngineer {
 |--------|--------|
 | Training Samples | 10,000+ |
 | Relevance | 87% accuracy |
-| Achievement | 🥉 GEEK-O-THON 2023 |
+| Achievement | 3rd Place GEEK-O-THON 2023 |
 
 </td>
-
 </tr>
 </table>
 
@@ -264,8 +247,7 @@ public class RohanSrivastava extends SoftwareEngineer {
 
 ---
 
-<!-- Certifications -->
-## 📜 Certifications
+## Certifications
 
 <div align="center">
 
@@ -275,7 +257,7 @@ public class RohanSrivastava extends SoftwareEngineer {
 | 🔴 **Oracle Java Foundations** | Oracle Authorized (ULSA) | Mar 2026 | `OGDV48H4DJFT` |
 | ☁️ **AWS Cloud Practitioner Essentials** | Amazon Web Services | — | — |
 | ☁️ **AWS Technical Essentials** | Amazon Web Services | — | — |
-| 🔵 **Databases &amp; SQL for Data Science** | IBM | — | — |
+| 🔵 **Databases and SQL for Data Science** | IBM | — | — |
 | 📚 **Object-Oriented Programming in Java** | Coursera | — | — |
 | 💻 **Responsive Web Design** | freeCodeCamp | — | — |
 
@@ -283,25 +265,23 @@ public class RohanSrivastava extends SoftwareEngineer {
 
 ---
 
-<!-- Achievements -->
-## 🏆 Achievements
+## Achievements
 
 <div align="center">
 
-| 🏅 | Achievement | Detail |
+| | Achievement | Detail |
 |---|---|---|
 | 🥉 | **3rd Place — GEEK-O-THON 2023** | IIIT Bhubaneswar · 100+ teams · AI/ML category |
-| 🎯 | **Oracle Certified Java SE 17 Developer** | 1Z0-829 · Globally recognized credential |
+| 🎯 | **Oracle Certified Java SE 17 Developer** | 1Z0-829 · Pearson · Globally recognized |
 | 📈 | **25–45% Performance Gains** | Delivered across 6+ enterprise projects |
 | 🌍 | **Global Collaboration** | Deloitte teams across 3 countries |
-| ⚡ | **6-Month Mastery** | Self-taught Spring Boot, AWS &amp; Angular on the job |
+| ⚡ | **6-Month Mastery** | Self-taught Spring Boot, AWS and Angular on the job |
 
 </div>
 
 ---
 
-<!-- Activity Graph -->
-## 📈 Contribution Activity
+## Contribution Activity
 
 <div align="center">
 
@@ -311,22 +291,20 @@ public class RohanSrivastava extends SoftwareEngineer {
 
 ---
 
-<!-- Connect -->
-## 🤝 Connect With Me
+## Connect With Me
 
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Rohan_Srivastava-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rohan3125/)
-[![Email](https://img.shields.io/badge/Email-srivastavarohan3125%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:srivastavarohan3125@gmail.com)
+[![Email](https://img.shields.io/badge/Email-srivastavarohan3125@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:srivastavarohan3125@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit_Site-00D4FF?style=for-the-badge&logo=safari&logoColor=white)](https://rohan-srivastava-git.github.io/My-Portfolio/)
-[![GitHub](https://img.shields.io/badge/GitHub-rohan--srivastava--git-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ROHAN-SRIVASTAVA-GIT)
-[![Twitter](https://img.shields.io/badge/Twitter-@ias__politician-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/ias_politician)
+[![GitHub](https://img.shields.io/badge/GitHub-ROHAN--SRIVASTAVA--GIT-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ROHAN-SRIVASTAVA-GIT)
+[![Twitter](https://img.shields.io/badge/Twitter-%40ias__politician-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/ias_politician)
 
 <br/>
 
-> *"Building systems that scale. Writing code that matters."*
+*"Building systems that scale. Writing code that matters."*
 
 </div>
 
-<!-- Footer Wave -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" />
