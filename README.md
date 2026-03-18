@@ -2,6 +2,7 @@
 
 <!-- Animated Header Banner -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Rohan%20Srivastava&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Software%20Engineer%20%7C%20Full-Stack%20and%20Backend%20Developer&descAlignY=58&descSize=18"/>
+<img src="https://img.shields.io/github/followers/rohan-srivastava-git?label=Followers&style=flat-square&color=0D1B2E&labelColor=1B4F8A" alt="Followers"/>
 <!-- Typing Animation -->
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&width=700&lines=Software+Engineer+%40+Deloitte+(via+Centroxy);Java+%7C+Spring+Boot+%7C+React+%7C+AWS+Specialist;Oracle+Certified+Java+SE+17+Developer;Building+Systems+That+Scale+%F0%9F%9A%80;2%2B+Years+%7C+4%2B+Enterprise+Projects+%7C+3+Countries" alt="Typing SVG" />
