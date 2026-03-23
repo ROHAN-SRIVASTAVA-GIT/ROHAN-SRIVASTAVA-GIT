@@ -51,7 +51,7 @@ public class RohanSrivastava extends SoftwareEngineer {
     String[] achievements = {
         "🥉 3rd Place — GEEK-O-THON 2023 (IIIT Bhubaneswar, 100+ teams)",
         "📈 25–45% performance gains across 6+ enterprise projects",
-        "🌍 Collaborated with Deloitte teams across 3 countries",
+        "🌍 Collaborated with Deloitte teams across countries",
         "⚡ Self-taught Spring Boot, AWS &amp; Angular in 6 months on the job"
     };
 
@@ -87,7 +87,7 @@ public class RohanSrivastava extends SoftwareEngineer {
 ### 🏢 Centroxy Solutions → Deloitte
 **Software Engineer (SDA)** · Jun 2024 – Present
 
-> Contributing to **4+ enterprise projects** across telecom and energy sectors, collaborating with global teams across **3 countries** in Agile sprints.
+> Contributing to **4+ enterprise projects** across energy sectors, collaborating with global teams across **countries** in Agile sprints.
 
 **Key Metrics:**
 - ⚡ Feature cycle time **↓ 30%**
@@ -322,7 +322,7 @@ public class RohanSrivastava extends SoftwareEngineer {
 [![Email](https://img.shields.io/badge/Email-srivastavarohan3125%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:srivastavarohan3125@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit_Site-00D4FF?style=for-the-badge&logo=safari&logoColor=white)](https://rohan-srivastava-git.github.io/My-Portfolio/)
 [![GitHub](https://img.shields.io/badge/GitHub-rohan--srivastava--git-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ROHAN-SRIVASTAVA-GIT)
-[![Twitter](https://img.shields.io/badge/Twitter-@ias__politician-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/ias_politician)
+[![Twitter](https://img.shields.io/badge/Twitter-@ias__politician-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/janta_k_jadugar)
 
 <br/>
 
