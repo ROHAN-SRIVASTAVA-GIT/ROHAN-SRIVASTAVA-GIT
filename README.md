@@ -66,7 +66,7 @@ public class RohanSrivastava extends SoftwareEngineer {
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=rohan-srivastava-git&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1B2E&title_color=00D4FF&icon_color=7B2FFF&text_color=F0F4FF&border_radius=12" alt="GitHub Stats"/>
+<img width="49%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=rohan-srivastava-git&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1B2E&title_color=00D4FF&icon_color=7B2FFF&text_color=F0F4FF&border_radius=12" alt="GitHub Stats"/>
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=rohan-srivastava-git&theme=tokyonight&hide_border=true&background=0D1B2E&stroke=1B4F8A&ring=00D4FF&fire=7B2FFF&currStreakLabel=00D4FF&border_radius=12" alt="Streak Stats"/>
 
 <br/><br/>
