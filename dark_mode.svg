@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" font-family="ConsolasFallback,Consolas,monospace" width="985px" height="530px" font-size="16px">
+<style>
+@font-face {
+src: local('Consolas'), local('Consolas Bold');
+font-family: 'ConsolasFallback';
+font-display: swap;
+-webkit-size-adjust: 109%;
+size-adjust: 109%;
+}
+.key {fill: #ffa657;}
+.value {fill: #a5d6ff;}
+.addColor {fill: #3fb950;}
+.delColor {fill: #f85149;}
+.cc {fill: #616e7f;}
+text, tspan {white-space: pre;}
+</style>
+<rect width="985px" height="530px" fill="#161b22" rx="15"/>
+<text x="15" y="30" fill="#c9d1d9" class="ascii">
+<tspan x="15" y="30">!!!lFg&amp;MM$$$$$M%F!;,,`'''.......</tspan>
+<tspan x="15" y="50">!T%M$$@@@@@@@@@@@$g|``''.......</tspan>
+<tspan x="15" y="70">T@@@$$%ggg%&amp;M$$$@@@@l''.....</tspan>
+<tspan x="15" y="90">&amp;$M!;`.   .',;|i&amp;@$$@,.....</tspan>
+<tspan x="15" y="110">@@l         .'`;i%$@M`....</tspan>
+<tspan x="15" y="130">$g`''...  '. ',|ilF$|....</tspan>
+<tspan x="15" y="150">%, `,:il!`.``!gFFgTi`'..</tspan>
+<tspan x="15" y="170">l,.`,:T!|,.,!liFTgl:,'.</tspan>
+<tspan x="15" y="190">``.'``,`'' 'il|!!i!i;..</tspan>
+<tspan x="15" y="210">,'          ;|:`,;|!`'.</tspan>
+<tspan x="15" y="230">|,      .,`:Fi:`,|i!`'.</tspan>
+<tspan x="15" y="250">Fl'. .|!iiii%&amp;%gliFF`'.             .,</tspan>
+<tspan x="15" y="270">TMT;'`i|;,`;!Fgggg$!''..        `!ilTT</tspan>
+<tspan x="15" y="290">%T%&amp;!:`  .|Fl!iFMMi`,`'..       .'''``</tspan>
+<tspan x="15" y="310">Mg`!&amp;$$FTlFg%&amp;M$MF|;`'  ..     .</tspan>
+<tspan x="15" y="330">&amp;Mg. :T&amp;M$@@@$&amp;M|M@MgT!;'      .    .</tspan>
+<tspan x="15" y="350">&amp;&amp;MM;  ':!!lTlT| &amp;@@@@@@Mgi;   ..  ..</tspan>
+<tspan x="15" y="370">MMM$$|   ':||:'  l$$$$$$@@@@g' '.'..</tspan>
+<tspan x="15" y="390">$$$$$@! `T%g&amp;&amp;%: .!$$@@@$$$$@&amp;'. .</tspan>
+<tspan x="15" y="410">@@$$$$@T`;F$M@g,.  %$$@@@@@@$@g!!:;`.</tspan>
+<tspan x="15" y="430">$$@$$$$@!  TM$!    |@$@@@@@@$$$!iillli</tspan>
+<tspan x="15" y="450">@$$$$$$$$;.gMM&amp;'   .%@$@@@@@@$@: ''`,;</tspan>
+<tspan x="15" y="470">$@$$$$@$@g`%&amp;M@&amp;'   :@$@@@@@@$@F ...</tspan>
+<tspan x="15" y="490">$$@@$$@$@M,gMM$@F    M@$@@@@@$$$' .</tspan>
+<tspan x="15" y="510">$@@@@$$@$@|F$$$$$`   l@$@@@@@@$@T</tspan>
+</text>
+<text x="390" y="30" fill="#c9d1d9">
+<tspan x="390" y="30">rohan@srivastava</tspan> -———————————————————————————————————————-—-
+<tspan x="390" y="50" class="cc">. </tspan><tspan class="key">OS</tspan>:<tspan class="cc"> ........................................... </tspan><tspan class="value">Windows 11</tspan>
+<tspan x="390" y="70" class="cc">. </tspan><tspan class="key">Role</tspan>:<tspan class="cc"> ................. </tspan><tspan class="value">Software Engineer @ Deloitte (SDA)</tspan>
+<tspan x="390" y="90" class="cc">. </tspan><tspan class="key">Company</tspan>:<tspan class="cc"> ...................... </tspan><tspan class="value">Centroxy Solutions Pvt Ltd</tspan>
+<tspan x="390" y="110" class="cc">. </tspan><tspan class="key">Education</tspan>:<tspan class="cc"> ............ </tspan><tspan class="value">B.Tech CSE - XIM University (2024)</tspan>
+<tspan x="390" y="130" class="cc">. </tspan><tspan class="key">IDE</tspan>:<tspan class="cc"> .............................. </tspan><tspan class="value">IntelliJ IDEA, VS Code</tspan>
+<tspan x="390" y="150" class="cc">. </tspan>
+<tspan x="390" y="170" class="cc">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Programming</tspan>:<tspan class="cc"> ......... </tspan><tspan class="value">Java, JS, TS, Python, C++</tspan>
+<tspan x="390" y="190" class="cc">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Web</tspan>:<tspan class="cc"> ..................... </tspan><tspan class="value">HTML, CSS, JSON, YAML</tspan>
+<tspan x="390" y="210" class="cc">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Real</tspan>:<tspan class="cc"> ........................... </tspan><tspan class="value">English, Hindi</tspan>
+<tspan x="390" y="230" class="cc">. </tspan>
+<tspan x="390" y="250" class="cc">. </tspan><tspan class="key">Frameworks</tspan>:<tspan class="cc"> ......... </tspan><tspan class="value">Spring Boot, React, Angular, FastAPI</tspan>
+<tspan x="390" y="270" class="cc">. </tspan><tspan class="key">Cloud</tspan>.<tspan class="key">DevOps</tspan>:<tspan class="cc"> ............ </tspan><tspan class="value">AWS, OpenShift, Docker, Jenkins</tspan>
+<tspan x="390" y="290" class="cc">. </tspan><tspan class="key">Certified</tspan>:<tspan class="cc"> ......... </tspan><tspan class="value">Oracle Java SE 17 Developer (1Z0-829)</tspan>
+<tspan x="390" y="310">- Contact</tspan> -——————————————————————————————————————————————-—-
+<tspan x="390" y="330" class="cc">. </tspan><tspan class="key">Email</tspan>.<tspan class="key">Personal</tspan>:<tspan class="cc"> ............ </tspan><tspan class="value">srivastavarohan3125@gmail.com</tspan>
+<tspan x="390" y="350" class="cc">. </tspan><tspan class="key">LinkedIn</tspan>:<tspan class="cc"> ...................................... </tspan><tspan class="value">rohan3125</tspan>
+<tspan x="390" y="370" class="cc">. </tspan><tspan class="key">Portfolio</tspan>:<tspan class="cc"> ............... </tspan><tspan class="value">rohan-srivastava-git.vercel.app</tspan>
+<tspan x="390" y="390" class="cc">. </tspan><tspan class="key">GitHub</tspan>:<tspan class="cc"> ............................. </tspan><tspan class="value">ROHAN-SRIVASTAVA-GIT</tspan>
+<tspan x="390" y="410" class="cc">. </tspan><tspan class="key">Twitter</tspan>:<tspan class="cc"> ................................ </tspan><tspan class="value">@janta_k_jadugar</tspan>
+<tspan x="390" y="430" class="cc">. </tspan>
+<tspan x="390" y="450">- GitHub Stats</tspan> -—————————————————————————————————————————-—-
+<tspan x="390" y="470" class="cc">. </tspan><tspan class="key">Repos</tspan>:<tspan class="cc"> .................. </tspan><tspan class="value">36</tspan> | <tspan class="key">Stars</tspan>:<tspan class="cc"> .................. </tspan><tspan class="value">0</tspan>
+<tspan x="390" y="490" class="cc">. </tspan><tspan class="key">Commits</tspan>:<tspan class="cc"> .............. </tspan><tspan class="value">157</tspan> | <tspan class="key">Followers</tspan>:<tspan class="cc"> ............... </tspan><tspan class="value">1</tspan>
+<tspan x="390" y="510" class="cc">. </tspan><tspan class="key">Experience</tspan>:<tspan class="cc"> . </tspan><tspan class="value">2+ Yrs | 5 Enterprise Projects | 3 Countries</tspan>
+</text>
+</svg>
