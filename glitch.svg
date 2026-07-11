@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="700" height="170" viewBox="0 0 700 170" font-family="Consolas,Menlo,monospace">
+<rect width="700" height="170" rx="12" fill="#0d1117" stroke="#30363d"/>
+<text x="350" y="78" font-size="34" font-weight="800" text-anchor="middle" fill="#ff2d55" opacity="0.65">CURIOSITY LEVEL: 100%<animate attributeName="dx" values="0;-3;2;0;-2;0" dur="0.4s" calcMode="discrete" repeatCount="indefinite"/></text>
+<text x="350" y="78" font-size="34" font-weight="800" text-anchor="middle" fill="#00e5ff" opacity="0.65">CURIOSITY LEVEL: 100%<animate attributeName="dx" values="0;3;-2;0;2;0" dur="0.4s" calcMode="discrete" repeatCount="indefinite"/></text>
+<text x="350" y="78" font-size="34" font-weight="800" text-anchor="middle" fill="#e6edf3">CURIOSITY LEVEL: 100%<animate attributeName="opacity" values="1;1;0.6;1;0.85;1" dur="1.7s" repeatCount="indefinite"/></text>
+<text x="350" y="112" font-size="15" text-anchor="middle" fill="#3fb950">achievement unlocked — you found the hidden console</text>
+<text x="350" y="140" font-size="13" text-anchor="middle" fill="#8b949e">intruder identified: a fellow engineer <tspan fill="#00d4ff">▮<animate attributeName="opacity" values="1;0;1" dur="0.9s" repeatCount="indefinite"/></tspan></text>
+<pattern id="scan" width="4" height="4" patternUnits="userSpaceOnUse"><rect width="4" height="1.5" fill="#000" opacity="0.22"/></pattern>
+<rect width="700" height="170" rx="12" fill="url(#scan)"/>
+</svg>

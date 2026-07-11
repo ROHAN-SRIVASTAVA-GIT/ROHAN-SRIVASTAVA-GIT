@@ -9,6 +9,8 @@
   </picture>
 </a>
 
+<img width="800" src="https://raw.githubusercontent.com/ROHAN-SRIVASTAVA-GIT/ROHAN-SRIVASTAVA-GIT/main/terminal.svg" alt="Live terminal session"/>
+
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&width=700&lines=Software+Engineer+%40+Deloitte+(Contractual);Java+%7C+Spring+Boot+%7C+React+%7C+AWS+Specialist;Oracle+Certified+Java+SE+17+Developer;Building+Systems+That+Scale+%F0%9F%9A%80;2%2B+Years+%7C+5+Enterprise+Projects+%7C+3+Countries" alt="Typing SVG" />
 </a>
@@ -414,7 +416,51 @@ public class RohanSrivastava extends SoftwareEngineer {
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=rohan-srivastava-git&bg_color=0D1B2E&color=00D4FF&line=1B4F8A&point=7B2FFF&area=true&hide_border=true&radius=8)](https://github.com/rohan-srivastava-git)
 
+<br/>
+
+### 🐍 Watch the snake devour my contributions
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ROHAN-SRIVASTAVA-GIT/ROHAN-SRIVASTAVA-GIT/output/github-snake-dark.svg">
+  <img alt="Snake eating my contribution graph" src="https://raw.githubusercontent.com/ROHAN-SRIVASTAVA-GIT/ROHAN-SRIVASTAVA-GIT/output/github-snake.svg">
+</picture>
+
 </div>
+
+---
+
+<!-- Easter Egg -->
+<details>
+<summary>🚨 <b>CLASSIFIED — DO NOT CLICK THIS</b> 🚨</summary>
+
+<br/>
+
+<div align="center">
+
+<img width="700" src="https://raw.githubusercontent.com/ROHAN-SRIVASTAVA-GIT/ROHAN-SRIVASTAVA-GIT/main/glitch.svg" alt="Curiosity level 100%"/>
+
+<br/><br/>
+
+**You were told not to click. You clicked anyway.**
+That's exactly the kind of curiosity great engineers are made of. 🧠
+
+🏆 Achievement unlocked: `Inspector of Hidden READMEs`
+
+Since you've breached this far, here's the classified intel:
+
+| 🔐 | Secret |
+|---|---|
+| ☕ | Runs on chai, not coffee |
+| 🌙 | Best code ships after midnight |
+| 🖼️ | That ASCII face at the top? Generated from my real photo, pixel by pixel |
+| 🤖 | This README rebuilds itself every morning at 6 AM IST — while I sleep |
+| 🐍 | The snake above eats one of my commits every single day |
+
+*Now hit ⭐ Follow before the system detects the breach...* 😏
+
+</div>
+
+</details>
 
 ---
 
