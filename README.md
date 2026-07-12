@@ -13,7 +13,14 @@
   </picture>
 </a>
 
-<img width="800" src="https://raw.githubusercontent.com/ROHAN-SRIVASTAVA-GIT/ROHAN-SRIVASTAVA-GIT/main/terminal.svg" alt="Live terminal session"/>
+<details>
+<summary><img width="850" src="https://raw.githubusercontent.com/ROHAN-SRIVASTAVA-GIT/ROHAN-SRIVASTAVA-GIT/main/lamp_off.svg" alt="A pitch dark room... pull the cord to switch on the light"/></summary>
+
+<br/>
+
+<img width="850" src="https://raw.githubusercontent.com/ROHAN-SRIVASTAVA-GIT/ROHAN-SRIVASTAVA-GIT/main/world_tour.svg" alt="The lamp lights up and reveals a world map — touring India, UK, UAE, Germany, Japan, Australia, USA and Brazil"/>
+
+</details>
 
 <br/>
 
@@ -461,22 +468,6 @@ Since you've breached this far, here's the classified intel:
 </div>
 
 </details>
-
----
-
-<!-- The Dark Room -->
-<div align="center">
-
-<details>
-<summary><img width="850" src="https://raw.githubusercontent.com/ROHAN-SRIVASTAVA-GIT/ROHAN-SRIVASTAVA-GIT/main/lamp_off.svg" alt="A pitch dark room... pull the cord to switch on the light"/></summary>
-
-<br/>
-
-<img width="850" src="https://raw.githubusercontent.com/ROHAN-SRIVASTAVA-GIT/ROHAN-SRIVASTAVA-GIT/main/world_tour.svg" alt="The lamp lights up and reveals a world map — touring India, UK, UAE, Germany, Japan, Australia, USA and Brazil"/>
-
-</details>
-
-</div>
 
 ---
 
