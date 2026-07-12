@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="240" viewBox="0 0 1000 240" font-family="Segoe UI,Helvetica,Arial,sans-serif">
+<rect width="1000" height="240" rx="14" fill="#04050a"/>
+<line x1="500" y1="0" x2="500" y2="52" stroke="#14161d" stroke-width="3"/><path d="M468 86 500 46 532 86Z" fill="#101218" stroke="#181b24" stroke-width="2"/><circle cx="500" cy="90" r="7" fill="#181b24"/>
+<g transform="translate(516,66)"><animateTransform attributeName="transform" type="rotate" additive="sum" values="-5;5;-5" dur="3.2s" repeatCount="indefinite" calcMode="spline" keySplines="0.45 0 0.55 1;0.45 0 0.55 1"/><line x1="0" y1="0" x2="0" y2="58" stroke="#39404d" stroke-width="1.8"/><circle cx="0" cy="63" r="4.5" fill="#4a5260"/></g>
+<text x="500" y="176" font-size="15" fill="#2e3542" text-anchor="middle" letter-spacing="3">IT'S PITCH DARK IN HERE…</text>
+<text x="500" y="205" font-size="14" fill="#c7b98a" text-anchor="middle" letter-spacing="4">▸ PULL THE CORD TO SWITCH ON THE LIGHT ◂<animate attributeName="opacity" values="1;0.25;1" dur="2.2s" repeatCount="indefinite"/></text>
+</svg>
