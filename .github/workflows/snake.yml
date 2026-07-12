@@ -2,7 +2,8 @@ name: Generate contribution snake
 
 on:
   schedule:
-    - cron: "0 1 * * *" # daily at 01:00 UTC
+    # odd minute + off-peak hour to avoid GitHub's congested cron slots
+    - cron: "53 2 * * *" # daily at 02:53 UTC (08:23 IST)
   workflow_dispatch:
 
 permissions:

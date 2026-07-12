@@ -2,7 +2,9 @@ name: Update profile SVGs
 
 on:
   schedule:
-    - cron: "30 0 * * *" # daily at 00:30 UTC (06:00 IST)
+    # odd minute + off-peak hour: popular slots (:00/:30, midnight UTC) get
+    # delayed or dropped by GitHub's cron queue
+    - cron: "47 2 * * *" # daily at 02:47 UTC (08:17 IST)
   workflow_dispatch:
 
 permissions:
