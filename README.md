@@ -2,6 +2,10 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Rohan%20Srivastava&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Software%20Engineer%20%7C%20Full-Stack%20and%20Backend%20Developer&descAlignY=58&descSize=18"/>
 
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&width=700&lines=Software+Engineer+%40+Deloitte+(Contractual);Java+%7C+Spring+Boot+%7C+React+%7C+AWS+Specialist;Oracle+Certified+Java+SE+17+Developer;Building+Systems+That+Scale+%F0%9F%9A%80;2%2B+Years+%7C+5+Enterprise+Projects+%7C+3+Countries" alt="Typing SVG" />
+</a>
+
 <a href="https://github.com/ROHAN-SRIVASTAVA-GIT/ROHAN-SRIVASTAVA-GIT">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ROHAN-SRIVASTAVA-GIT/ROHAN-SRIVASTAVA-GIT/main/dark_mode.svg">
@@ -10,10 +14,6 @@
 </a>
 
 <img width="800" src="https://raw.githubusercontent.com/ROHAN-SRIVASTAVA-GIT/ROHAN-SRIVASTAVA-GIT/main/terminal.svg" alt="Live terminal session"/>
-
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&width=700&lines=Software+Engineer+%40+Deloitte+(Contractual);Java+%7C+Spring+Boot+%7C+React+%7C+AWS+Specialist;Oracle+Certified+Java+SE+17+Developer;Building+Systems+That+Scale+%F0%9F%9A%80;2%2B+Years+%7C+5+Enterprise+Projects+%7C+3+Countries" alt="Typing SVG" />
-</a>
 
 <br/>
 
